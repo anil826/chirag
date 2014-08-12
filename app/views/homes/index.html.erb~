@@ -1,0 +1,303 @@
+<body>
+
+					<!---//End-top-grids---->
+					<!---- start-works---->
+					<!-- Owl Carousel Assets -->
+
+					     <!-- Owl Carousel Assets -->
+					    <!-- Prettify -->
+				<!---//End-gallery-script----->
+					       <div id="owl-demo" class="owl-carousel">
+				                <div class="item" id="example1">
+				                	<div data-scroll-reveal="enter bottom but wait 0.7s" class="grid-block fade">
+							        	<div class="caption">
+							            	<h4>Beatiful Mountain</h4>
+							                <p>Something more beautiful mountains photos.</p>
+							               	<ul>
+							               		<li><a class="w-icon1" href="#"><span> </span></a></li>
+							               		<li><a class="w-icon2" href="#"><span> </span></a></li>
+							               		<div class="clear"> </div>
+							               	</ul>
+							            </div>
+							        	<img src="/assets/w1.jpg" />
+							        </div>
+							        <div data-scroll-reveal="enter bottom but wait 0.7s" class="grid-block fade">
+							        	<div class="caption">
+							            	<h4>Beatiful Mountain</h4>
+							                <p>Something more beautiful mountains photos.</p>
+							               	<ul>
+							               		<li><a class="w-icon1" href="#"><span> </span></a></li>
+							               		<li><a class="w-icon2" href="#"><span> </span></a></li>
+							               		<div class="clear"> </div>
+							               	</ul>
+							            </div>
+							        	<img src="/assets/w2.jpg" />
+							        </div>
+							        <div data-scroll-reveal="enter bottom but wait 0.7s" class="grid-block fade">
+							        	<div class="caption">
+							            	<h4>Beatiful Mountain</h4>
+							                <p>Something more beautiful mountains photos.</p>
+							               	<ul>
+							               		<li><a class="w-icon1" href="#"><span> </span></a></li>
+							               		<li><a class="w-icon2" href="#"><span> </span></a></li>
+							               		<div class="clear"> </div>
+							               	</ul>
+							            </div>
+							        	<img src="/assets/w3.jpg" />
+							        </div>
+							        <div data-scroll-reveal="enter bottom but wait 0.7s" class="grid-block fade">
+							        	<div class="caption">
+							            	<h4>Beatiful Mountain</h4>
+							                <p>Something more beautiful mountains photos.</p>
+							               	<ul>
+							               		<li><a class="w-icon1" href="#"><span> </span></a></li>
+							               		<li><a class="w-icon2" href="#"><span> </span></a></li>
+							               		<div class="clear"> </div>
+							               	</ul>
+							            </div>
+							        	<img src="/assets/w4.jpg" />
+							        </div>
+							        <div data-scroll-reveal="enter bottom but wait 0.7s" class="grid-block fade">
+							        	<div class="caption">
+							            	<h4>Beatiful Mountain</h4>
+							                <p>Something more beautiful mountains photos.</p>
+							               	<ul>
+							               		<li><a class="w-icon1" href="#"><span> </span></a></li>
+							               		<li><a class="w-icon2" href="#"><span> </span></a></li>
+							               		<div class="clear"> </div>
+							               	</ul>
+							            </div>
+							        	<img src="/assets/w5.jpg" />
+							        </div>
+							        <div data-scroll-reveal="enter bottom but wait 0.7s" class="grid-block fade">
+							        	<div class="caption">
+							            	<h4>Beatiful Mountain</h4>
+							                <p>Something more beautiful mountains photos.</p>
+							               	<ul>
+							               		<li><a class="w-icon1" href="#"><span> </span></a></li>
+							               		<li><a class="w-icon2" href="#"><span> </span></a></li>
+							               		<div class="clear"> </div>
+							               	</ul>
+							            </div>
+							        	<img src="/assets/w6.jpg" />
+							        </div>
+							        <div data-scroll-reveal="enter bottom but wait 0.7s" class="grid-block fade">
+							        	<div class="caption">
+							            	<h4>Beatiful Mountain</h4>
+							                <p>Something more beautiful mountains photos.</p>
+							               	<ul>
+							               		<li><a class="w-icon1" href="#"><span> </span></a></li>
+							               		<li><a class="w-icon2" href="#"><span> </span></a></li>
+							               		<div class="clear"> </div>
+							               	</ul>
+							            </div>
+							        	<img src="/assets/w7.jpg" />
+							        </div>
+							        <div data-scroll-reveal="enter bottom but wait 0.7s" class="grid-block fade">
+							        	<div class="caption">
+							            	<h4>Beatiful Mountain</h4>
+							                <p>Something more beautiful mountains photos.</p>
+							               	<ul>
+							               		<li><a class="w-icon1" href="#"><span> </span></a></li>
+							               		<li><a class="w-icon2" href="#"><span> </span></a></li>
+							               		<div class="clear"> </div>
+							               	</ul>
+							            </div>
+							        	<img src="/assets/w8.jpg" />
+							        </div>
+				                </div>
+				                <div class="item" id="example2">
+				                	<div data-scroll-reveal="enter bottom but wait 0.7s" class="grid-block fade">
+							        	<div class="caption">
+							            	<h4>Beatiful Mountain</h4>
+							                <p>Something more beautiful mountains photos.</p>
+							               	<ul>
+							               		<li><a class="w-icon1" href="#"><span> </span></a></li>
+							               		<li><a class="w-icon2" href="#"><span> </span></a></li>
+							               		<div class="clear"> </div>
+							               	</ul>
+							            </div>
+							        	<img src="/assets/w1.jpg" />
+							        </div>
+							        <div data-scroll-reveal="enter bottom but wait 0.7s" class="grid-block fade">
+							        	<div class="caption">
+							            	<h4>Beatiful Mountain</h4>
+							                <p>Something more beautiful mountains photos.</p>
+							               	<ul>
+							               		<li><a class="w-icon1" href="#"><span> </span></a></li>
+							               		<li><a class="w-icon2" href="#"><span> </span></a></li>
+							               		<div class="clear"> </div>
+							               	</ul>
+							            </div>
+							        	<img src="/assets/w2.jpg" />
+							        </div>
+							        <div data-scroll-reveal="enter bottom but wait 0.7s" class="grid-block fade">
+							        	<div class="caption">
+							            	<h4>Beatiful Mountain</h4>
+							                <p>Something more beautiful mountains photos.</p>
+							               	<ul>
+							               		<li><a class="w-icon1" href="#"><span> </span></a></li>
+							               		<li><a class="w-icon2" href="#"><span> </span></a></li>
+							               		<div class="clear"> </div>
+							               	</ul>
+							            </div>
+							        	<img src="/assets/w3.jpg" />
+							        </div>
+							        <div data-scroll-reveal="enter bottom but wait 0.7s" class="grid-block fade">
+							        	<div class="caption">
+							            	<h4>Beatiful Mountain</h4>
+							                <p>Something more beautiful mountains photos.</p>
+							               	<ul>
+							               		<li><a class="w-icon1" href="#"><span> </span></a></li>
+							               		<li><a class="w-icon2" href="#"><span> </span></a></li>
+							               		<div class="clear"> </div>
+							               	</ul>
+							            </div>
+							        	<img src="/assets/w4.jpg" />
+							        </div>
+							        <div data-scroll-reveal="enter bottom but wait 0.7s" class="grid-block fade">
+							        	<div class="caption">
+							            	<h4>Beatiful Mountain</h4>
+							                <p>Something more beautiful mountains photos.</p>
+							               	<ul>
+							               		<li><a class="w-icon1" href="#"><span> </span></a></li>
+							               		<li><a class="w-icon2" href="#"><span> </span></a></li>
+							               		<div class="clear"> </div>
+							               	</ul>
+							            </div>
+							        	<img src="/assets/w5.jpg" />
+							        </div>
+							        <div data-scroll-reveal="enter bottom but wait 0.7s" class="grid-block fade">
+							        	<div class="caption">
+							            	<h4>Beatiful Mountain</h4>
+							                <p>Something more beautiful mountains photos.</p>
+							               	<ul>
+							               		<li><a class="w-icon1" href="#"><span> </span></a></li>
+							               		<li><a class="w-icon2" href="#"><span> </span></a></li>
+							               		<div class="clear"> </div>
+							               	</ul>
+							            </div>
+							        	<img src="/assets/w6.jpg" />
+							        </div>
+							        <div data-scroll-reveal="enter bottom but wait 0.7s" class="grid-block fade">
+							        	<div class="caption">
+							            	<h4>Beatiful Mountain</h4>
+							                <p>Something more beautiful mountains photos.</p>
+							               	<ul>
+							               		<li><a class="w-icon1" href="#"><span> </span></a></li>
+							               		<li><a class="w-icon2" href="#"><span> </span></a></li>
+							               		<div class="clear"> </div>
+							               	</ul>
+							            </div>
+							        	<img src="/assets/w7.jpg" />
+							        </div>
+							        <div data-scroll-reveal="enter bottom but wait 0.7s" class="grid-block fade">
+							        	<div class="caption">
+							            	<h4>Beatiful Mountain</h4>
+							                <p>Something more beautiful mountains photos.</p>
+							               	<ul>
+							               		<li><a class="w-icon1" href="#"><span> </span></a></li>
+							               		<li><a class="w-icon2" href="#"><span> </span></a></li>
+							               		<div class="clear"> </div>
+							               	</ul>
+							            </div>
+							        	<img src="/assets/w8.jpg" />
+							        </div>
+				                </div>
+			              </div>
+				<!----//End-img-cursual---->
+					</div>
+					<!---- //End-works---->
+					<!---start-blog---->
+					<div class="blog" id="blog">
+						<div class="wrap">
+							<h3><span>Recent</span> Blog Posts</h3>
+							<i> </i>
+							<div class="blog-artical-grids">
+								<div data-scroll-reveal="enter bottom but wait 0.7s" class="artical-grid">
+									<div class="artical-grid-head">
+										<img class="post-pic" src="/assets/artical-pic1.jpg">
+										<span class="admin1"><img src="/assets/admin1.jpg" title="admin-name" /></span>
+									</div>
+									<div class="artical-info">
+										<label class="poston">January 11, 2014</label>
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing. Aliquam viverra   dolor sit consectetur.</p>
+									</div>
+								</div>
+								<div data-scroll-reveal="enter bottom but wait 0.7s" class="artical-grid">
+									<div class="artical-grid-head">
+										<img class="post-pic" src="/assets/artical-pic2.jpg">
+										<span class="admin1"><img src="/assets/admin2.jpg" title="admin-name" /></span>
+									</div>
+									<div class="artical-info">
+										<label class="poston">January 11, 2014</label>
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing. Aliquam viverra   dolor sit consectetur.</p>
+									</div>
+								</div>
+								<div data-scroll-reveal="enter bottom but wait 0.7s" class="artical-grid">
+									<div class="artical-grid-head">
+										<img class="post-pic" src="/assets/artical-pic3.jpg">
+										<span class="admin1"><img src="/assets/admin3.jpg" title="admin-name" /></span>
+									</div>
+									<div class="artical-info">
+										<label class="poston">January 11, 2014</label>
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing. Aliquam viverra   dolor sit consectetur.</p>
+									</div>
+								</div>
+								<div class="clear"> </div>
+							</div>
+						</div>
+					</div>
+					<!---//End-blog---->
+					<!----start-contact---->
+					<div data-scroll-reveal="enter bottom but wait 0.7s" class="contact" id="contact">
+						<div data-scroll-reveal="enter bottom but wait 1.3s" class="contact-form">
+							<div class="contact-info">
+									<h3><span>Contact Us</span> Now</h3>
+									<p>Lorem ipsum address line1, address lin</p>
+									<label>0414 459 237</label>
+									<a href="mailto:yourwebsitename.com">info@elegantbizz.com</a>
+									<i> </i>
+									<form>
+										<input type="text" placeholder="Name">
+										<input type="text" placeholder="Email">
+										<textarea placeholder="message"> </textarea>
+										<input type="submit" value="Send Message">
+									</form>
+							</div>
+						</div>
+						<div data-scroll-reveal="enter bottom but wait 0.7s" class="contact-map">
+							<iframe src="https://maps.google.co.in/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=United+States&amp;aq=0&amp;oq=u&amp;sll=14.42896,79.980705&amp;sspn=0.249702,0.41851&amp;ie=UTF8&amp;hq=&amp;hnear=United+States&amp;ll=37.09024,-95.712891&amp;spn=12.397063,26.784668&amp;t=m&amp;z=6&amp;output=embed"></iframe>
+						</div>
+					</div>
+					<!----//End-contact---->
+					<!---start-footer--->
+					<!----start-scrooling-script---->
+								 <a href="#move-top" id="toTop" style="display: block;"><span id="toTopHover" style="opacity: 1;"> </span></a>
+							<!----//End-scrooling-script---->
+					<div data-scroll-reveal="enter bottom but wait 0.7s" class="footer">
+						<div data-scroll-reveal="enter bottom but wait 0.7s" class="footer-top">
+							<div class="wrap">
+								<ul>
+									<li><a href="#">Home</a></li>
+									<li><a href="#">Features</a></li>
+									<li><a href="#">Work</a></li>
+									<li><a href="#">Blog</a></li>
+									<li><a href="#">Contact</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="footer-bottom">
+							<div class="wrap">
+								<p>Template by <a href="http://w3layouts.com/">W3layouts</a></p>
+							</div>
+						</div>
+					</div>
+					<!---//End-footer--->
+					<!---stikey-header--->
+					<!----->
+
+
+					<!----->
+			</div>
+		<!---//End-wrap---->
