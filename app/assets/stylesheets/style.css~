@@ -342,8 +342,7 @@ body{
 	margin: 0 auto;
 	font-size: 0.95em;
 }
-/*----//End-blog----*/
-/*---start-contact---*/
+
 .contact{
 	margin-top:2em;
 }
@@ -835,8 +834,8 @@ body{
 		position: absolute;
 		top: 28px;
 		left: 11px;
-		background: url(/assets/nav-icon.png) no-repeat;
-	}
+			}
+
 	.top-nav{
 		display:none;
 	}
