@@ -24,7 +24,7 @@ img{max-width:100%;}
 body{
 	font-family: 'Open Sans', sans-serif;
 	background:#FFF;
-	background:url(../images/banner.jpg) repeat-x 0px 0px #fff;
+	background:url(/assets/banner.jpg) repeat-x 0px 0px #fff;
 }
 /*---start-wrap----*/
 .wrap{
@@ -124,32 +124,32 @@ body{
 	width: 69px;
 	height: 69px;
 	display: inline-block;
-	background: url(../images/top-icons.png) no-repeat 25px 3px;
+	background: url(/assets/top-icons.png) no-repeat 25px 3px;
 	margin-top: 30%;
 }
 .icon1 span {
 	margin-right: 1em;
 }
 .icon2 span{
-	background: url(../images/top-icons.png) no-repeat -41px 3px;
+	background: url(/assets/top-icons.png) no-repeat -41px 3px;
 }
 .icon3 span{
-	background: url(../images/top-icons.png) no-repeat -115px 3px;
+	background: url(/assets/top-icons.png) no-repeat -115px 3px;
 }
 .icon4 span{
-	background: url(../images/top-icons.png) no-repeat -193px 3px;
+	background: url(/assets/top-icons.png) no-repeat -193px 3px;
 }
 .top-grid:hover .icon1 span{
-	background: url(../images/top-icons.png) no-repeat 25px -63px;
+	background: url(/assets/top-icons.png) no-repeat 25px -63px;
 }
 .top-grid:hover .icon2 span{
-	background: url(../images/top-icons.png) no-repeat -41px -63.5px;
+	background: url(/assets/top-icons.png) no-repeat -41px -63.5px;
 }
 .top-grid:hover .icon3 span{
-	background: url(../images/top-icons.png) no-repeat  -115px -63px;
+	background: url(/assets/top-icons.png) no-repeat  -115px -63px;
 }
 .top-grid:hover .icon4 span{
-	background: url(../images/top-icons.png) no-repeat -193px -63px;
+	background: url(/assets/top-icons.png) no-repeat -193px -63px;
 }
 .top-grid p{
 	font-size: 0.9em;
@@ -271,10 +271,10 @@ body{
 	display:inline-block;
 }
 .w-icon1 span{
-	background:url(../images/grid-icons.png) no-repeat 0px 0px;
+	background:url(/assets/grid-icons.png) no-repeat 0px 0px;
 }
 .w-icon2 span{
-	background:url(../images/grid-icons.png) no-repeat -47px 0px;
+	background:url(/assets/grid-icons.png) no-repeat -47px 0px;
 }
 /*----//works-grid-caption----*/
 /*----//End-works----*/
@@ -515,7 +515,7 @@ body{
 	height: 36px;
 	border: none;
 	text-indent: 100%;
-	background: url(../images/to-top.png) no-repeat 0px 0px;
+	background: url(/assets/to-top.png) no-repeat 0px 0px;
 	z-index: 999;
 }
 #toTopHover {
@@ -639,14 +639,14 @@ body{
 		position: absolute;
 		top: 28px;
 		left: 11px;
-		background: url(../images/nav-icon.png) no-repeat;
+		background: url(/assets/nav-icon.png) no-repeat;
 	}
 	.top-nav{
 		display:none;
 	}
 	.header {
 		background: rgba(0, 0, 0, 0.56);
- 		margin-top:0%; 
+ 		margin-top:0%;
 	}
 	.logo {
 		float: none;
@@ -658,7 +658,7 @@ body{
 		background:#fff;
 	}
 	.banner{
-		background: url(../images/banner.jpg) repeat-x 0px 0px;
+		background: url(/assets/banner.jpg) repeat-x 0px 0px;
 		background-size: 154% 100%;
 	}
 	.top-grids {
@@ -737,14 +737,14 @@ body{
 		position: absolute;
 		top: 28px;
 		left: 11px;
-		background: url(../images/nav-icon.png) no-repeat;
+		background: url(/assets/nav-icon.png) no-repeat;
 	}
 	.top-nav{
 		display:none;
 	}
 	.header {
 		background: rgba(0, 0, 0, 0.56);
- 		margin-top:0%; 
+ 		margin-top:0%;
 	}
 	.logo {
 		float: none;
@@ -756,7 +756,7 @@ body{
 		background:#fff;
 	}
 	.banner{
-		background: url(../images/banner.jpg) repeat-x 0px 0px;
+		background: url(/assets/banner.jpg) repeat-x 0px 0px;
 		background-size: 154% 100%;
 	}
 	.top-grids {
@@ -835,14 +835,14 @@ body{
 		position: absolute;
 		top: 28px;
 		left: 11px;
-		background: url(../images/nav-icon.png) no-repeat;
+		background: url(/assets/nav-icon.png) no-repeat;
 	}
 	.top-nav{
 		display:none;
 	}
 	.header {
 		background: rgba(0, 0, 0, 0.56);
- 		margin-top:0%; 
+ 		margin-top:0%;
 	}
 	.logo {
 		float: none;
@@ -854,7 +854,7 @@ body{
 		background:#fff;
 	}
 	.banner{
-		background: url(../images/banner.jpg) repeat-x 0px 0px;
+		background: url(/assets/banner.jpg) repeat-x 0px 0px;
 		background-size: 154% 100%;
 	}
 	.top-grids {
@@ -899,7 +899,7 @@ body{
 		min-height:600px;
 	}
 	.grid-block:nth-child(5),.grid-block:nth-child(6),.grid-block:nth-child(7),.grid-block:nth-child(8){
-		display:none;	
+		display:none;
 	}
 	.contact-info form input[type="text"] {
 		width: 92%;
@@ -948,14 +948,14 @@ body{
 		position: absolute;
 		top: 21px;
 		left: 9px
-		background: url(../images/nav-icon.png) no-repeat;
+		background: url(/assets/nav-icon.png) no-repeat;
 	}
 	.top-nav{
 		display:none;
 	}
 	.header {
 		background: rgba(0, 0, 0, 0.56);
- 		margin-top:0%; 
+ 		margin-top:0%;
 	}
 	.logo {
 		float: none;
@@ -967,7 +967,7 @@ body{
 		background:#fff;
 	}
 	.banner{
-		background: url(../images/banner.jpg) repeat-x 0px 0px;
+		background: url(/assets/banner.jpg) repeat-x 0px 0px;
 		background-size: 154% 100%;
 	}
 	.top-grids {
@@ -1012,7 +1012,7 @@ body{
 		min-height:600px;
 	}
 	.grid-block:nth-child(5),.grid-block:nth-child(6),.grid-block:nth-child(7),.grid-block:nth-child(8){
-		display:none;	
+		display:none;
 	}
 	.contact-info form input[type="text"] {
 		width: 90%;
